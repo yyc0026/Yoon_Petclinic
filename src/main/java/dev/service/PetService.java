@@ -1,9 +1,9 @@
-package service;
+package dev.service;
 
-import Model.Pet;
+import dev.Model.Pet;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.PetRepository;
+import dev.repository.PetRepository;
 
 import java.util.List;
 

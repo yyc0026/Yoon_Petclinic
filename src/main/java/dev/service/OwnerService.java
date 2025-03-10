@@ -1,9 +1,9 @@
-package service;
+package dev.service;
 
-import Model.Owner;
+import dev.Model.Owner;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.OwnerRepository;
+import dev.repository.OwnerRepository;
 
 import java.util.List;
 

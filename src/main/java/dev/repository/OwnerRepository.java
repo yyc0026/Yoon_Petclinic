@@ -1,6 +1,6 @@
-package repository;
+package dev.repository;
 
-import Model.Owner;
+import dev.Model.Owner;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

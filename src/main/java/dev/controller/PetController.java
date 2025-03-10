@@ -1,10 +1,10 @@
-package controller;
+package dev.controller;
 
-import Model.Pet;
+import dev.Model.Pet;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import service.PetService;
+import dev.service.PetService;
 
 import java.util.List;
 

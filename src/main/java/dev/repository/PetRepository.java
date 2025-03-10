@@ -1,6 +1,6 @@
-package repository;
+package dev.repository;
 
-import Model.Pet;
+import dev.Model.Pet;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

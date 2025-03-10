@@ -1,10 +1,10 @@
-package controller;
+package dev.controller;
 
-import Model.Owner;
+import dev.Model.Owner;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import service.OwnerService;
+import dev.service.OwnerService;
 
 import java.util.List;
 
